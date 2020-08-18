@@ -1,6 +1,6 @@
 //Author : Paavan Parekh && Param Parekh
 //date of publishing : 7 aug. 2020
-//learn : A better project today is better than best project tomorrow
+//learn : A good project today is better than best project tomorrow
 
 /*************************Topics covered******************************/
 //C++ graphics
