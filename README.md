@@ -56,12 +56,11 @@ Important  functions that can interact with mouse and Keyboard are ::<br/>
 **3)getch()**<br/>
 **4)text_read()** user defined func that can read string from the keyboard as well as print it on graphics page<br/>
 **5)text_read_password()** user defined func that can read password from the keyboard as well as print " * " on graphics page<br/>
-**IMPORTANT NOTE ::**<BR/>
+**IMPORTANT NOTE :: ** <br/>
 ** USER INPUT STARTS FOR ANY TEXT FEILD IF USER CLICKS ON PARTICULAR FEILD AND INPUT ENDS WITH CLICKING ON "ENTER" KEY **
-
-
 <br/><br/><br/>
-Happy coding  *** ;) ;) ***
+Happy coding <br/> 
+***;) ;)***
 
 
 
