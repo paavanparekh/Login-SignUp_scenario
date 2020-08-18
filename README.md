@@ -11,7 +11,7 @@ Topics covered in the project is:   <br />
                2)  file handling    <br />
                3)  Graphics in cpp  <br />
                4)  Mouse Handling   <br />
-First of all what is login and SignUp in any software/website :click [here](https://ell.stackexchange.com/questions/24384/what-is-the-difference-among-sign-up-sign-in-and-log-in#:~:text=Sign%20up%20means%20%22to%20register,no%20such%20noun%20as%20*signin.)
+First of all what is login and SignUp for any software/website :click [here](https://ell.stackexchange.com/questions/24384/what-is-the-difference-among-sign-up-sign-in-and-log-in#:~:text=Sign%20up%20means%20%22to%20register,no%20such%20noun%20as%20*signin.)
 
 **working of SIGN UP Page** ::<br/>
 Sign Up Page has 3 text feilds namely "Username" , "Password" , "Emailid"
@@ -54,10 +54,10 @@ Important  functions that can interact with mouse and Keyboard are ::<br/>
 **1)GetCursorPos()**<br/>
 **2)GetAsyncKeyState()**<br/>
 **3)getch()**<br/>
-**4)text_read()** user defined func that can read string from the keyboard as well as print it on graphics page<br/>
-**5)text_read_password()** user defined func that can read password from the keyboard as well as print " * " on graphics page<br/>
-**IMPORTANT NOTE :: ** <br/>
-** USER INPUT STARTS FOR ANY TEXT FEILD IF USER CLICKS ON PARTICULAR FEILD AND INPUT ENDS WITH CLICKING ON "ENTER" KEY **
+**4)text_read()** user defined func that can read string from the keyboard as well as print it on graphics page <br/>
+**5)text_read_password()** user defined func that can read password from the keyboard as well as print " * " on graphics page <br/>
+**IMPORTANT NOTE ::** <br/><br/>
+**USER INPUT STARTS FOR ANY TEXT FEILD IF USER CLICKS ON PARTICULAR FEILD AND INPUT ENDS WITH CLICKING ON "ENTER" KEY**
 <br/><br/><br/>
 Happy coding <br/> 
 ***;) ;)***
